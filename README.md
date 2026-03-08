@@ -226,9 +226,6 @@ Incluye:
 - Proyectos
 - Contacto
 
-Link del diseño en Figma:
-https://www.figma.com/design/TgogOBHkolGWPCDjkZCSCK/Sin-t%C3%ADtulo?node-id=0-1&t=WeJ8QRtvVyC0fGJR-1
-
 Tecnologías Utilizadas
 
 - HTML5
@@ -236,17 +233,12 @@ Tecnologías Utilizadas
 - Git
 - GitHub
 
+Link del diseño en Figma:
+https://www.figma.com/design/TgogOBHkolGWPCDjkZCSCK/Sin-t%C3%ADtulo?node-id=0-1&t=WeJ8QRtvVyC0fGJR-1
 
-Sitio Web Publicado 
+Repositorio en GitHub: https://github.com/DasVargas/Mi-Portafolio-Web
 
-Repositorio en GitHub:
-
-https://github.com/DasVargas/Mi-Portafolio-Web
-
-Sitio Web publicado:
-
---
-
+Sitio Web publicado:  https://dasvargas.github.io/Mi-Portafolio-Web/
 
 
 Autor
